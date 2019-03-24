@@ -1,3 +1,3 @@
-# artists
+# Simple React Filter App
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/artists)
+This project was created to learn how to filter a piece of data from a JSON file.
